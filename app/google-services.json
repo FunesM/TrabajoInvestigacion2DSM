@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "438515469203",
+    "firebase_url": "https://trabajodeinvestigacion-9c7cc-default-rtdb.firebaseio.com",
+    "project_id": "trabajodeinvestigacion-9c7cc",
+    "storage_bucket": "trabajodeinvestigacion-9c7cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438515469203:android:e850f042fcd1df6f9a7666",
+        "android_client_info": {
+          "package_name": "sv.edu.udb.trabajodeinvestigacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438515469203-rccfh94drs8jrurbnoc40lug9csu4oau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcn8elZbFma_-3OVSFM_JX6yELZQLrfbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438515469203-rccfh94drs8jrurbnoc40lug9csu4oau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
